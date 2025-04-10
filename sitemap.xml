@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.ilikey.top/posts/2025/04/10/IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE-%E5%8F%8A%E5%B8%B8%E7%94%A8%E8%AE%BE%E7%BD%AE/</loc>
+    
+    <lastmod>2025-04-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ilikey.top/posts/2025/04/10/Vue%E7%9A%84npm%E4%B8%8B%E8%BD%BD%E6%BA%90%E7%AE%A1%E7%90%86/</loc>
     
     <lastmod>2025-04-10</lastmod>
@@ -44,6 +53,34 @@
   
   <url>
     <loc>https://blog.ilikey.top/tags/npm/</loc>
+    <lastmod>2025-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ilikey.top/tags/idea/</loc>
+    <lastmod>2025-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ilikey.top/tags/java/</loc>
+    <lastmod>2025-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ilikey.top/tags/git/</loc>
+    <lastmod>2025-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ilikey.top/tags/jetbrains/</loc>
     <lastmod>2025-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
