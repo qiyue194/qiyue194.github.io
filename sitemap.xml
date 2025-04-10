@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.ilikey.top/categories/</loc>
+    <loc>https://blog.ilikey.top/posts/2025/04/10/Vue%E7%9A%84npm%E4%B8%8B%E8%BD%BD%E6%BA%90%E7%AE%A1%E7%90%86/</loc>
     
-    <lastmod>2025-04-02</lastmod>
+    <lastmod>2025-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.ilikey.top/posts/2025/04/02/1/</loc>
+    <loc>https://blog.ilikey.top/categories/</loc>
     
     <lastmod>2025-04-02</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>https://www.ilikey.top/</loc>
+    <loc>https://blog.ilikey.top/</loc>
     <lastmod>2025-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -29,14 +29,21 @@
 
   
   <url>
-    <loc>https://www.ilikey.top/tags/default/</loc>
+    <loc>https://blog.ilikey.top/tags/Vue/</loc>
     <lastmod>2025-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.ilikey.top/tags/test/</loc>
+    <loc>https://blog.ilikey.top/tags/node/</loc>
+    <lastmod>2025-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ilikey.top/tags/npm/</loc>
     <lastmod>2025-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

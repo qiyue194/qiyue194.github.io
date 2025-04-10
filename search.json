@@ -1,1 +1,1 @@
-[{"title":"1","path":"/posts/2025/04/02/1/","content":"标题测试图片","tags":["default","test"]},{"title":"categories","path":"/categories/index.html","content":"这里是分类"}]
+[{"title":"Vue的npm下载源管理","path":"/posts/2025/04/10/Vue的npm下载源管理/","content":"Vue的npm下载源管理123456安装nrmnpm i nrm -g --registry=http://registry.npmmirror.com查看所有可用的镜像源nrm ls将下包的镜像源切换为taobao镜像nrm use taobao","tags":["Vue","node","npm"]},{"title":"categories","path":"/categories/index.html","content":"这里是分类"}]
